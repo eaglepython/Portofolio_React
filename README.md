@@ -1,10 +1,10 @@
+<div>
 
-<div align="center">
 # 🚀 Joseph Bidias - Portfolio
 </div>
 
-<div align="center">
 
+<div>
 [![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-2563eb?style=for-the-badge&logoColor=white)](https://portofolioreact-project.netlify.app/)
 [![React](https://img.shields.io/badge/React-18.2-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
