@@ -3,7 +3,6 @@
 # 🚀 Joseph Bidias - Portfolio
 </div>
 
-
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-2563eb?style=for-the-badge&logoColor=white)](https://portofolioreact-project.netlify.app/)
