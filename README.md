@@ -1,7 +1,8 @@
 
 <div align="center">
-#🚀 Joseph Bidias - Portfolio
+# 🚀 Joseph Bidias - Portfolio
 </div>
+
 
 <div align="center">
 
