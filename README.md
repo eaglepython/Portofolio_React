@@ -23,7 +23,7 @@
 <td width="60%">
 
 ### Professional Summary
-Quantitative Researcher and Software Engineer with expertise in algorithmic trading systems, machine learning, and full-stack development. Currently pursuing Master's in Financial Engineering at WorldQuant University while building production-grade applications that solve real-world problems.
+Quantitative Researcher and Software Engineer with expertise in algorithmic trading systems, machine learning, and full-stack development. Financial Engineering Architect with records building production-grade applications that solve real-world problems.
 
 **Core Competencies:**
 - 📈 Algorithmic Trading & Quantitative Finance
