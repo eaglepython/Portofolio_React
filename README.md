@@ -1,4 +1,7 @@
-                                                           # 🚀 Joseph Bidias - Portfolio
+
+<div align="center">
+# 🚀 Joseph Bidias - Portfolio
+</div>
 
 <div align="center">
 
