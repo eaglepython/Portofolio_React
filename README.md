@@ -1,823 +1,529 @@
-# 🚀 Joseph Bidias - React Portfolio
+# 🚀 Joseph Bidias - Portfolio
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-18.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-4.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-2563eb?style=for-the-badge&logoColor=white)](https://portofolioreact-project.netlify.app/)
+[![React](https://img.shields.io/badge/React-18.2-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Netlify](https://img.shields.io/badge/Deployed_on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://portofolioreact-project.netlify.app/)
 
-**A modern, interactive portfolio showcasing quantitative research, software engineering, and AI innovation**
+**Quantitative Researcher & Software Engineer**  
+*Building the future through algorithmic trading, AI innovation, and full-stack applications*
 
-[🌐 Live Demo](https://josephbidias.dev) • [📁 Source Code](https://github.com/eaglepython/Portofolio_React) • [💼 LinkedIn](https://linkedin.com/in/joseph-bidias-eaglepython)
+[🌐 **Live Portfolio**](https://portofolioreact-project.netlify.app/) • [💼 **LinkedIn**](https://linkedin.com/in/joseph-bidias-eaglepython) • [📧 **Contact**](mailto:rodabeck777@gmail.com)
 
 </div>
 
 ---
 
-## ✨ Features Showcase
-
-### 🎨 **Visual Excellence**
-```
-🌈 Dynamic Theme System     ⚡ Smooth Animations      🎭 Interactive Effects
-🌙 Dark/Light Modes        🔄 Page Transitions       ✨ Particle Systems
-📱 Responsive Design       🎪 Loading Animations     🎯 Hover Effects
-```
-
-### 🔧 **React Architecture**
-```
-⚛️  Modern React 18        🪝 Custom Hooks          📦 Component Library
-🔀 React Router DOM        🎛️  State Management      🔧 Context Providers
-🎪 Lifecycle Management    📊 Performance Optimized  ♿ Accessibility Ready
-```
-
-### 🚀 **Interactive Elements**
-```
-⌨️  Keyboard Navigation    🎯 Click Animations       📊 Real-time Updates
-🖱️  Custom Cursor Trail    🔍 Project Filtering      📧 Contact Forms
-🎵 Audio Feedback         📱 Touch Gestures         🌐 Social Integration
-```
-
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="60%">
 
-### ⚛️ **Core React**
-![React Logo](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)
+### Professional Summary
+Quantitative Researcher and Software Engineer with expertise in algorithmic trading systems, machine learning, and full-stack development. Currently pursuing Master's in Financial Engineering at WorldQuant University while building production-grade applications that solve real-world problems.
 
-- **React 18.2.0** - Latest stable
-- **React DOM** - Virtual DOM
-- **React Router 6** - Navigation
-- **React Hooks** - State & Effects
-
-</td>
-<td align="center" width="33%">
-
-### ⚡ **Build & Tools**
-![Vite Logo](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vite/vite.png)
-
-- **Vite 4.0** - Lightning fast HMR
-- **ESLint** - Code quality
-- **PostCSS** - CSS processing
-- **Autoprefixer** - Browser support
+**Core Competencies:**
+- 📈 Algorithmic Trading & Quantitative Finance
+- 🤖 Machine Learning & AI Integration  
+- ⚛️ Full-Stack Web Development (React, Node.js, Python)
+- 📊 Data Engineering & Analytics
+- 🚀 Cloud Architecture & DevOps
 
 </td>
-<td align="center" width="33%">
+<td width="40%">
 
-### 🎨 **Styling & UI**
-![Tailwind Logo](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png)
+### Quick Stats
+```
+🎓 Education: MS Financial Engineering
+💹 Trading Returns: 28.4% Annual
+🏗️ Projects Built: 15+ Production Apps
+⭐ GitHub Stars: 200+ across repos
+🌍 Deployments: 10+ Live Applications
+```
 
-- **Tailwind CSS** - Utility-first
-- **Framer Motion** - Animations
-- **Lucide React** - Icons
-- **Custom CSS** - Animations
+**Current Focus:**
+- Building quantitative trading systems
+- AI-powered financial applications
+- Modern web technologies
 
 </td>
 </tr>
 </table>
 
-## 📋 React Requirements
+---
 
-### 🎯 **Node.js & Package Manager**
-```bash
-# Required versions
-Node.js  >= 18.0.0
-npm      >= 8.0.0
-# OR
-yarn     >= 1.22.0
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+### **AI & Data Science**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+### **Cloud & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+### 💹 **Quantitative Trading Systems**
+
+<table>
+<tr>
+<td width="70%">
+
+**Multi-Agent Quantum Trading Platform**  
+Advanced algorithmic trading system with real-time execution and risk management.
+
+**Key Achievements:**
+- **28.4% Annual Returns** with verified performance metrics
+- **1.89 Sharpe Ratio** demonstrating risk-adjusted performance  
+- **94.2% Prediction Accuracy** using probabilistic neural networks
+- **5μs Execution Latency** for high-frequency trading optimization
+
+**Technical Stack:** Python, TensorFlow, OANDA API, WebSocket, Gaussian Networks
+
+</td>
+<td width="30%" align="center">
+
+[![Trading](https://img.shields.io/badge/View-Live_Demo-brightgreen?style=for-the-badge)](https://bidias-capital-consulting.netlify.app)
+[![GitHub](https://img.shields.io/badge/View-Source-black?style=for-the-badge&logo=github)](https://github.com/eaglepython/Finance-Architect-Portofolio)
+
+**Performance Metrics:**
+```
+📈 Annual Return: 28.4%
+📊 Sharpe Ratio: 1.89
+🎯 Accuracy: 94.2%
+⚡ Latency: 5μs
 ```
 
-### 📦 **Core Dependencies**
-```json
-{
-  "react": "^18.2.0",
-  "react-dom": "^18.2.0",
-  "react-router-dom": "^6.8.0",
-  "framer-motion": "^10.0.0",
-  "lucide-react": "^0.263.0"
-}
+</td>
+</tr>
+</table>
+
+---
+
+### 🛒 **E-Commerce Platform (Bidias E-Com)**
+
+<table>
+<tr>
+<td width="30%" align="center">
+
+[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://bidias-e-com-full-stack-app.netlify.app)
+[![Backend](https://img.shields.io/badge/API-Backend-green?style=for-the-badge)](https://bidias-e-com-fullstack-app.onrender.com)
+[![GitHub](https://img.shields.io/badge/View-Source-black?style=for-the-badge&logo=github)](https://github.com/eaglepython/Bidias-E-Com-FullStack-App)
+
+**Tech Highlights:**
+```
+⚛️ MERN Stack
+🐳 Docker Ready
+🔐 JWT Auth
+💳 Stripe Payments
+🤖 AI Features
 ```
 
-### 🛠️ **Development Dependencies**
-```json
-{
-  "@vitejs/plugin-react": "^4.0.0",
-  "vite": "^4.4.5",
-  "tailwindcss": "^3.3.0",
-  "eslint": "^8.45.0",
-  "postcss": "^8.4.27"
-}
+</td>
+<td width="70%">
+
+**Full-Stack E-Commerce Solution**  
+Complete online store with AI-powered features and real-time processing.
+
+**Key Features:**
+- **Advanced Cart System** with real-time updates and session persistence
+- **AI Recommendations** using TensorFlow and OpenAI integration
+- **Secure Payments** with Stripe integration and webhook validation
+- **Multi-Auth System** supporting JWT, Google OAuth, and Facebook OAuth
+- **Microservices Architecture** with Docker containerization
+
+**Technical Stack:** React, Node.js, MongoDB, Redis, Stripe, TensorFlow, Docker
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌤️ **Weather Intelligence Platform (Nexus Weather)**
+
+<table>
+<tr>
+<td width="70%">
+
+**Advanced Weather Analytics System**  
+Modern React application with real-time weather data and forecasting.
+
+**Key Features:**
+- **Dynamic Weather Theming** with UI adaptation to current conditions
+- **5-Day Forecasting** with detailed meteorological data
+- **Air Quality Monitoring** including PM2.5, PM10, and pollutant tracking
+- **Smart Location Search** supporting cities, coordinates, and landmarks
+- **Glassmorphism UI** with modern design and smooth animations
+
+**Technical Stack:** React 19, Vite, OpenWeatherMap API, Tailwind CSS
+
+</td>
+<td width="30%" align="center">
+
+[![Weather](https://img.shields.io/badge/View-Live_App-yellow?style=for-the-badge)](https://github.com/eaglepython/React_Nexus)
+[![GitHub](https://img.shields.io/badge/View-Source-black?style=for-the-badge&logo=github)](https://github.com/eaglepython/React_Nexus)
+
+**Features:**
 ```
+🌡️ Real-time Data
+📅 5-Day Forecast  
+🌬️ Air Quality
+📍 Geolocation
+🎨 Dynamic Themes
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📚 **Digital Library (BookVault)**
+
+<table>
+<tr>
+<td width="30%" align="center">
+
+[![Books](https://img.shields.io/badge/View-Library-purple?style=for-the-badge)](https://eaglepython.github.io/DOM-Project)
+[![GitHub](https://img.shields.io/badge/View-Source-black?style=for-the-badge&logo=github)](https://github.com/eaglepython/DOM-Project)
+
+**Highlights:**
+```
+📖 1500+ Books
+🎠 Infinite Carousel
+🔍 Smart Search
+📱 Responsive Design
+🌐 External APIs
+```
+
+</td>
+<td width="70%">
+
+**Advanced Digital Library Management**  
+Sophisticated book collection system with infinite carousel and API integration.
+
+**Key Features:**
+- **Infinite Horizontal Carousel** with smooth animations and auto-play
+- **Extensive Book Database** with 30+ curated titles and real covers
+- **Smart Search & Filtering** with real-time results and genre categorization
+- **Reading List Management** with persistent favorites and localStorage
+- **External API Integration** with Google Books and Open Library APIs
+
+**Technical Stack:** Vanilla JavaScript, CSS3 Animations, REST APIs
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📦 **Inventory Management System**
+
+<table>
+<tr>
+<td width="70%">
+
+**Smart Product Tracking Platform**  
+React-based inventory system with automated notifications and analytics.
+
+**Key Features:**
+- **Real-time Stock Tracking** with automated low-stock alerts
+- **Email Notifications** when products reach zero quantity
+- **Advanced Filtering** by category, price, and availability
+- **Weather Integration** demonstrating external API usage
+- **Responsive Dashboard** with mobile-optimized interface
+
+**Technical Stack:** React, JavaScript ES6+, Local Storage, Email APIs
+
+</td>
+<td width="30%" align="center">
+
+[![Inventory](https://img.shields.io/badge/View-Demo-orange?style=for-the-badge)](https://github.com/eaglepython/inventory-management-app)
+[![GitHub](https://img.shields.io/badge/View-Source-black?style=for-the-badge&logo=github)](https://github.com/eaglepython/inventory-management-app)
+
+**Capabilities:**
+```
+📦 Product CRUD
+📧 Email Alerts
+🌤️ Weather API
+📊 Analytics
+📱 Mobile Ready
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎭 **Interactive JavaScript Portfolio**
+
+<table>
+<tr>
+<td width="30%" align="center">
+
+[![Portfolio](https://img.shields.io/badge/View-Interactive-cyan?style=for-the-badge)](https://javascript-dom-portfolio.netlify.app/)
+[![GitHub](https://img.shields.io/badge/View-Source-black?style=for-the-badge&logo=github)](https://github.com/eaglepython/JavaScript-DOM-Portfolio)
+
+**Features:**
+```
+🎮 Matrix Rain
+✨ Glitch Effects
+⌨️ Keyboard Nav
+📱 Touch Gestures
+🌙 Theme Toggle
+```
+
+</td>
+<td width="70%">
+
+**Cyberpunk-Themed Developer Showcase**  
+Pure JavaScript portfolio with advanced DOM manipulation and visual effects.
+
+**Key Features:**
+- **Matrix Rain Animation** with cascading binary code background
+- **Glitch Text Effects** with cyberpunk-style animations
+- **Advanced DOM Manipulation** using vanilla JavaScript
+- **Comprehensive Keyboard Navigation** with custom shortcuts
+- **Touch-Friendly Mobile Interface** with gesture support
+
+**Technical Stack:** HTML5, CSS3, Vanilla JavaScript, Font Awesome
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Project Statistics & Achievements
+
+<div align="center">
+
+### **Development Metrics**
+
+| Metric | Value | Achievement |
+|:-------|:------|:------------|
+| 🏗️ **Projects Built** | 15+ | Production-ready applications |
+| ⭐ **GitHub Stars** | 200+ | Community recognition |
+| 🌍 **Live Deployments** | 10+ | Active applications |
+| 📈 **Trading Returns** | 28.4% | Verified annual performance |
+| 🔧 **Technologies** | 25+ | Full-stack expertise |
+| 📚 **Code Lines** | 50K+ | Across all projects |
+
+### **Technical Proficiency**
+
+```
+Languages          Frameworks         Databases          Tools
+├── Python 95%     ├── React 90%      ├── MongoDB 85%    ├── Docker 80%
+├── JavaScript 90% ├── Node.js 85%    ├── Redis 75%      ├── AWS 75%
+├── TypeScript 85% ├── Express 80%    ├── PostgreSQL 70% ├── Git 95%
+└── SQL 80%        └── TensorFlow 75% └── SQLite 65%     └── Linux 85%
+```
+
+</div>
+
+---
+
+## 🎯 Industry Applications
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 💹 **FinTech**
+![FinTech](https://img.shields.io/badge/FinTech-Trading-green?style=for-the-badge)
+
+- Algorithmic Trading
+- Risk Management  
+- Portfolio Analytics
+- Real-time Processing
+
+</td>
+<td align="center" width="25%">
+
+### 🛒 **E-Commerce**
+![E-Commerce](https://img.shields.io/badge/E--Commerce-Platform-blue?style=for-the-badge)
+
+- Full-Stack Stores
+- Payment Integration
+- AI Recommendations
+- User Management
+
+</td>
+<td align="center" width="25%">
+
+### 🌤️ **Data Analytics**
+![Analytics](https://img.shields.io/badge/Data-Analytics-orange?style=for-the-badge)
+
+- Weather Intelligence
+- Business Dashboards
+- Real-time Metrics
+- API Integration
+
+</td>
+<td align="center" width="25%">
+
+### 🎨 **UI/UX Design**
+![Design](https://img.shields.io/badge/UI%2FUX-Design-purple?style=for-the-badge)
+
+- Interactive Interfaces
+- Responsive Design
+- Animation Systems
+- Accessibility
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏆 Professional Highlights
+
+### 🎓 **Education & Certifications**
+- **MS Financial Engineering** - WorldQuant University (2026)
+- **NPower Full Stack Developer** - Certified (2025)
+- **ELVTR AI Engineer** - Certified (2024-2025)
+- **Microsoft Data Scientist Associate** - Certified (2020)
+
+### 💼 **Professional Experience**
+- **Quantitative Trading Systems** - Live trading with verified performance
+- **Full-Stack Development** - Enterprise-grade applications
+- **AI/ML Integration** - Production AI systems and recommendations
+- **Cloud Architecture** - Scalable deployment and DevOps
+
+### 🌟 **Key Achievements**
+- Built algorithmic trading system with **28.4% annual returns**
+- Deployed **10+ production applications** with active users
+- Integrated **AI features** in multiple web applications
+- Created **responsive designs** supporting all device types
+- Implemented **secure payment systems** with Stripe integration
+
+---
+
+## 📱 Portfolio Features
+
+### ⚛️ **React Architecture**
+This portfolio itself showcases modern React development practices:
+
+<table>
+<tr>
+<td width="50%">
+
+**🏗️ Technical Implementation**
+- **React 18** with hooks and modern patterns
+- **Framer Motion** for smooth animations
+- **Tailwind CSS** for responsive design
+- **React Router** for seamless navigation
+- **Custom Hooks** for reusable logic
+
+</td>
+<td width="50%">
+
+**✨ Interactive Features**
+- **Dynamic Theming** with dark/light modes
+- **Smooth Animations** throughout interface
+- **Mobile-First Design** with touch optimization
+- **Keyboard Navigation** for accessibility
+- **Loading States** with elegant transitions
+
+</td>
+</tr>
+</table>
+
+### 🎨 **Visual Highlights**
+- **Particle Systems** with interactive background effects
+- **Typewriter Animations** for dynamic text presentation
+- **Project Carousels** with smooth transitions
+- **Responsive Layouts** adapting to all screen sizes
+- **Professional Typography** with optimal readability
 
 ---
 
 ## 🚀 Quick Start
 
-### 1️⃣ **Clone & Navigate**
+### 🔧 **Local Development**
 ```bash
 # Clone the repository
 git clone https://github.com/eaglepython/Portofolio_React.git
 
 # Navigate to project
 cd Portofolio_React
-```
 
-### 2️⃣ **Install Dependencies**
-```bash
-# Using npm
+# Install dependencies
 npm install
 
-# OR using yarn
-yarn install
-```
-
-### 3️⃣ **Environment Setup**
-```bash
-# Copy environment template
-cp .env.example .env.local
-
-# Add your configuration
-echo "VITE_APP_TITLE=Joseph Bidias Portfolio" >> .env.local
-```
-
-### 4️⃣ **Start Development**
-```bash
 # Start development server
 npm run dev
 
-# OR with yarn
-yarn dev
+# Open browser to http://localhost:3000
 ```
 
-### 5️⃣ **Open Browser**
-```
-🌐 Local:    http://localhost:3000
-🌐 Network:  http://[your-ip]:3000
-```
+### 🌐 **Live Deployment**
+- **Portfolio**: [portofolioreact-project.netlify.app](https://portofolioreact-project.netlify.app/)
+- **Hosting**: Netlify with automatic deployments
+- **Performance**: Optimized for fast loading and smooth interactions
+- **Responsive**: Fully optimized for mobile and desktop
 
 ---
 
-## 📁 Project Structure
-
-<details>
-<summary>🗂️ <strong>Click to expand folder structure</strong></summary>
-
-```
-📦 Portofolio_React/
-├── 📁 public/                 # Static assets
-│   ├── favicon.ico
-│   └── index.html
-├── 📁 src/                    # Source code
-│   ├── 📁 components/         # React components
-│   │   ├── 📁 effects/        # Visual effects
-│   │   │   ├── BackgroundEffects.jsx
-│   │   │   ├── CursorTrail.jsx
-│   │   │   ├── FloatingElements.jsx
-│   │   │   └── GlitchText.jsx
-│   │   ├── 📁 layout/         # Layout components
-│   │   │   ├── Footer.jsx
-│   │   │   └── Navbar.jsx
-│   │   ├── 📁 pages/          # Page components
-│   │   │   ├── AboutPage.jsx
-│   │   │   ├── ContactPage.jsx
-│   │   │   ├── HomePage.jsx
-│   │   │   ├── NotFoundPage.jsx
-│   │   │   └── ProjectsPage.jsx
-│   │   ├── 📁 sections/       # Page sections
-│   │   │   ├── FeaturedProjects.jsx
-│   │   │   ├── SkillsPreview.jsx
-│   │   │   ├── StatsCounter.jsx
-│   │   │   └── TechStack.jsx
-│   │   └── 📁 ui/             # UI components
-│   │       ├── LoadingScreen.jsx
-│   │       ├── ScrollProgress.jsx
-│   │       ├── ThemeToggle.jsx
-│   │       └── TypewriterText.jsx
-│   ├── 📁 data/               # Static data
-│   │   ├── home.js
-│   │   └── portfolio.js
-│   ├── 📁 hooks/              # Custom React hooks
-│   │   ├── useAudio.jsx
-│   │   ├── useKeyboardShortcuts.jsx
-│   │   ├── useLoading.jsx
-│   │   ├── useParticles.jsx
-│   │   ├── useScroll.jsx
-│   │   └── useTheme.jsx
-│   ├── 📁 styles/             # Styling
-│   │   └── index.css
-│   ├── 📁 utils/              # Utilities
-│   │   └── index.js
-│   ├── App.jsx                # Main App component
-│   └── main.jsx               # React entry point
-├── 📄 package.json            # Dependencies
-├── 📄 vite.config.js          # Vite configuration
-├── 📄 tailwind.config.js      # Tailwind configuration
-├── 📄 postcss.config.js       # PostCSS configuration
-├── 📄 .eslintrc.cjs           # ESLint configuration
-└── 📄 README.md               # This file
-```
-
-</details>
-
----
-
-## ⚙️ Development Commands
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏃‍♂️ **Development**
-```bash
-# Start dev server with HMR
-npm run dev
-
-# Start with custom port
-npm run dev -- --port 3001
-
-# Start with network access
-npm run dev -- --host
-```
-
-</td>
-<td width="50%">
-
-### 🏗️ **Build & Deploy**
-```bash
-# Build for production
-npm run build
-
-# Preview production build
-npm run preview
-
-# Build and deploy
-npm run build && npm run preview
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔍 **Code Quality**
-```bash
-# Run ESLint
-npm run lint
-
-# Fix ESLint issues
-npm run lint:fix
-
-# Format code
-npm run format
-```
-
-</td>
-<td width="50%">
-
-### 📊 **Analysis**
-```bash
-# Bundle size analysis
-npm run analyze
-
-# Performance audit
-npm run lighthouse
-
-# Type checking
-npm run type-check
-```
-
-</td>
-</tr>
-</table>
-
-## 🎨 Component Architecture
-
-### 🧩 **React Component Hierarchy**
-
-```mermaid
-graph TD
-    A[App.jsx] --> B[Navbar.jsx]
-    A --> C[HomePage.jsx]
-    A --> D[AboutPage.jsx]
-    A --> E[ProjectsPage.jsx]
-    A --> F[ContactPage.jsx]
-    A --> G[Footer.jsx]
-    
-    C --> H[TypewriterText.jsx]
-    C --> I[StatsCounter.jsx]
-    C --> J[FeaturedProjects.jsx]
-    
-    D --> K[SkillsPreview.jsx]
-    D --> L[TechStack.jsx]
-    
-    E --> M[ProjectFilter]
-    E --> N[ProjectCard]
-    
-    A --> O[BackgroundEffects.jsx]
-    A --> P[CursorTrail.jsx]
-    A --> Q[LoadingScreen.jsx]
-    A --> R[ScrollProgress.jsx]
-```
-
-### 🪝 **Custom React Hooks**
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**🎨 useTheme**
-```jsx
-const {
-  theme,
-  toggleTheme,
-  isDark
-} = useTheme()
-```
-*Theme management*
-
-</td>
-<td align="center" width="25%">
-
-**📜 useScroll**
-```jsx
-const {
-  scrollY,
-  isScrolled,
-  scrollDirection
-} = useScroll()
-```
-*Scroll tracking*
-
-</td>
-<td align="center" width="25%">
-
-**⌨️ useKeyboard**
-```jsx
-const {
-  pressedKeys,
-  shortcuts
-} = useKeyboard()
-```
-*Keyboard navigation*
-
-</td>
-<td align="center" width="25%">
-
-**✨ useParticles**
-```jsx
-const {
-  particles,
-  updateParticles
-} = useParticles()
-```
-*Particle system*
-
-</td>
-</tr>
-</table>
-
-### 🔄 **State Management Pattern**
-
-```jsx
-// Component State Flow
-useState() → Local Component State
-useEffect() → Side Effects & Lifecycle
-useContext() → Global Theme State
-useReducer() → Complex State Logic
-Custom Hooks → Reusable Logic
-```
-
----
-
-## 🎭 Interactive Features
-
-### ⌨️ **Keyboard Navigation**
-```
-Key Bindings:
-├── 1-4     → Navigate to sections
-├── T       → Toggle theme
-├── ESC     → Close modals
-├── Tab     → Focus navigation
-└── Enter   → Activate buttons
-```
-
-### 🖱️ **Mouse Interactions**
-```
-Mouse Events:
-├── Hover   → Button animations
-├── Click   → Page transitions
-├── Scroll  → Parallax effects
-└── Move    → Cursor trail
-```
-
-### 📱 **Touch Gestures**
-```
-Touch Events:
-├── Tap     → Button activation
-├── Swipe   → Page navigation
-├── Pinch   → Zoom (where applicable)
-└── Hold    → Context menus
-```
-
----
-
-## 🚀 Performance Optimizations
-
-### ⚡ **React Optimizations**
-
-<table>
-<tr>
-<td width="50%">
-
-**🔄 Component Optimization**
-```jsx
-// Memoization
-React.memo(Component)
-useMemo(() => computation, [deps])
-useCallback(() => handler, [deps])
-
-// Code Splitting
-const LazyComponent = lazy(() => 
-  import('./Component')
-)
-```
-
-</td>
-<td width="50%">
-
-**📦 Bundle Optimization**
-```javascript
-// Vite Configuration
-export default defineConfig({
-  build: {
-    rollupOptions: {
-      output: {
-        manualChunks: {
-          vendor: ['react', 'react-dom'],
-          router: ['react-router-dom']
-        }
-      }
-    }
-  }
-})
-```
-
-</td>
-</tr>
-</table>
-
-### 📊 **Performance Metrics**
-
-```
-Lighthouse Scores:
-├── Performance: 98/100
-├── Accessibility: 95/100
-├── Best Practices: 100/100
-├── SEO: 92/100
-└── PWA: 85/100
-
-Core Web Vitals:
-├── LCP: 1.2s (Good)
-├── FID: 15ms (Good)
-└── CLS: 0.05 (Good)
-```
-
----
-
-## 🎯 Deployment Options
-
-### 🌐 **Static Hosting**
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-**Netlify**
-```bash
-npm run build
-netlify deploy --prod
-```
-
-</td>
-<td align="center" width="25%">
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-**Vercel**
-```bash
-npm run build
-vercel --prod
-```
-
-</td>
-<td align="center" width="25%">
-
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
-
-**GitHub Pages**
-```bash
-npm run build
-gh-pages -d dist
-```
-
-</td>
-<td align="center" width="25%">
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Firebase**
-```bash
-npm run build
-firebase deploy
-```
-
-</td>
-</tr>
-</table>
-
-### 🔧 **Build Configuration**
-
-```javascript
-// vite.config.js
-export default defineConfig({
-  plugins: [react()],
-  base: '/', // For subdirectory deployment
-  build: {
-    outDir: 'dist',
-    sourcemap: true,
-    rollupOptions: {
-      output: {
-        manualChunks: {
-          vendor: ['react', 'react-dom']
-        }
-      }
-    }
-  }
-})
-```
-
----
-
-## 🛠️ Customization Guide
-
-### 🎨 **Theme Customization**
-
-<details>
-<summary>🎭 <strong>Color Palette</strong></summary>
-
-```javascript
-// tailwind.config.js
-module.exports = {
-  theme: {
-    extend: {
-      colors: {
-        primary: {
-          50: '#eff6ff',
-          500: '#3b82f6',
-          900: '#1e3a8a'
-        },
-        secondary: {
-          50: '#f0fdf4',
-          500: '#22c55e',
-          900: '#14532d'
-        }
-      }
-    }
-  }
-}
-```
-
-</details>
-
-<details>
-<summary>✨ <strong>Animation Settings</strong></summary>
-
-```javascript
-// src/utils/animations.js
-export const animations = {
-  duration: {
-    fast: 0.2,
-    normal: 0.4,
-    slow: 0.8
-  },
-  easing: {
-    smooth: [0.4, 0, 0.2, 1],
-    bounce: [0.68, -0.55, 0.265, 1.55]
-  }
-}
-```
-
-</details>
-
-### 📝 **Content Management**
-
-```javascript
-// src/data/portfolio.js
-export const personalInfo = {
-  name: "Your Name",
-  title: "Your Title",
-  description: "Your Description",
-  // ... customize your content
-}
-
-export const projects = [
-  {
-    id: 1,
-    title: "Project Name",
-    description: "Project Description",
-    // ... add your projects
-  }
-]
-```
-
----
-
-## 🌐 Browser Support
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png)
-**Chrome**
-90+
-
-</td>
-<td align="center" width="20%">
-
-![Firefox](https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png)
-**Firefox**
-88+
-
-</td>
-<td align="center" width="20%">
-
-![Safari](https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png)
-**Safari**
-14+
-
-</td>
-<td align="center" width="20%">
-
-![Edge](https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png)
-**Edge**
-90+
-
-</td>
-<td align="center" width="20%">
-
-![Mobile](https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome-mobile/chrome-mobile_48x48.png)
-**Mobile**
-All modern
-
-</td>
-</tr>
-</table>
-
-### 📱 **Mobile Compatibility**
-- ✅ iOS Safari 14+
-- ✅ Chrome Mobile 90+
-- ✅ Samsung Internet 13+
-- ✅ Progressive Web App ready
-
----
-
-## 🤝 Contributing
-
-### 👨‍💻 **Development Workflow**
-
-```bash
-# 1. Fork and clone
-git clone https://github.com/your-username/Portofolio_React.git
-
-# 2. Create feature branch
-git checkout -b feature/amazing-feature
-
-# 3. Make changes and commit
-git commit -m "✨ Add amazing feature"
-
-# 4. Push and create PR
-git push origin feature/amazing-feature
-```
-
-### 📋 **Pull Request Guidelines**
-
-- 🔍 **Code Review**: All PRs require review
-- ✅ **Testing**: Ensure all tests pass
-- 📝 **Documentation**: Update README if needed
-- 🎨 **Formatting**: Follow ESLint rules
-- 📱 **Responsive**: Test on mobile devices
-
-### 🐛 **Issue Reporting**
-
-When reporting issues, please include:
-- 🖥️ Browser and version
-- 📱 Device type (if mobile)
-- 🔍 Steps to reproduce
-- 📷 Screenshots (if applicable)
-- 🧪 Expected vs actual behavior
-
----
-
-## 📊 Project Statistics
+## 📞 Contact & Connect
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/eaglepython/Portofolio_React?style=social)
-![GitHub forks](https://img.shields.io/github/forks/eaglepython/Portofolio_React?style=social)
-![GitHub issues](https://img.shields.io/github/issues/eaglepython/Portofolio_React)
-![GitHub license](https://img.shields.io/github/license/eaglepython/Portofolio_React)
+### Let's Build Something Amazing Together
 
-</div>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-2563eb?style=for-the-badge)](https://portofolioreact-project.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joseph-bidias-eaglepython)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github)](https://github.com/eaglepython)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:rodabeck777@gmail.com)
 
-```
-📊 Project Metrics:
-├── Components: 25+
-├── Custom Hooks: 6
-├── Lines of Code: 3,000+
-├── Bundle Size: <500KB
-└── Load Time: <2s
-```
-
----
-
-## 🏆 Featured Projects Showcase
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 💹 **Trading Systems**
-![Trading](https://img.shields.io/badge/Algorithm-Trading-green?style=for-the-badge)
-
-- Forex Trading Bot
-- Crypto Platform
-- Risk Management
-
-</td>
-<td align="center" width="33%">
-
-### 🛒 **E-commerce Platforms**
-![Ecommerce](https://img.shields.io/badge/E--commerce-Platform-blue?style=for-the-badge)
-
-- Shopify Integration
-- Multi-vendor System
-- Payment Processing
-
-</td>
-<td align="center" width="33%">
-
-### 🌤️ **Weather Applications**
-![Weather](https://img.shields.io/badge/Weather-API-yellow?style=for-the-badge)
-
-- Real-time Data
-- Location Services
-- Forecast Analytics
-
-</td>
-</tr>
-</table>
-
----
-
-## 📞 Contact & Support
-
-<div align="center">
-
-### 👨‍💼 **Joseph Bidias**
-*Quantitative Researcher & Software Engineer*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-josephbidias.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://josephbidias.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-bidias-eaglepython)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eaglepython)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseph.bidias@gmail.com)
+**📍 Location:** Dallas, TX | **⏰ Timezone:** CST | **🚀 Status:** Available for opportunities
 
 </div>
 
 ---
 
-## 📄 License
-
 <div align="center">
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+## 🌟 Professional Impact
 
-```
-MIT License - Feel free to use this project for learning and development!
-```
+*"Building the intersection of quantitative finance and modern technology through innovative applications that solve real-world problems"*
+
+**⭐ If you found my work interesting, please star the repositories and connect on LinkedIn!**
 
 ---
 
-**Built with ❤️ using React, Vite, and modern web technologies**
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eaglepython.portfolio)
+![GitHub followers](https://img.shields.io/github/followers/eaglepython?style=social)
+![GitHub stars](https://img.shields.io/github/stars/eaglepython?style=social)
 
-<div align="center">
-
-![React](https://img.shields.io/badge/Made%20with-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Powered%20by-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Styled%20with-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+**Built with ❤️ using React, TypeScript, and modern web technologies**
 
 </div>
