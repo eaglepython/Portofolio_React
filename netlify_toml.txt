@@ -1,0 +1,109 @@
+[build]
+  # Build command
+  command = "npm run build"
+  
+  # Publish directory
+  publish = "dist"
+  
+  # Node.js version
+  environment = { NODE_VERSION = "18" }
+
+# Production context
+[context.production]
+  command = "npm run build"
+  environment = { NODE_ENV = "production" }
+
+# Deploy preview context
+[context.deploy-preview]
+  command = "npm run build"
+  environment = { NODE_ENV = "production" }
+
+# Branch deploy context
+[context.branch-deploy]
+  command = "npm run build"
+  environment = { NODE_ENV = "production" }
+
+# Headers for security and performance
+[[headers]]
+  for = "/*"
+  [headers.values]
+    # Security headers
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    X-XSS-Protection = "1; mode=block"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdnjs.cloudflare.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdnjs.cloudflare.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self' https:; frame-ancestors 'none';"
+    
+    # Performance headers
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Static assets caching
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*.js"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*.css"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Image caching
+[[headers]]
+  for = "/*.jpg"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*.png"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*.svg"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*.webp"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# HTML files should not be cached aggressively
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+# Redirects for SPA routing
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+  conditions = {Role = ["admin"], Country = ["!CA"]}
+
+# Form handling
+[forms]
+  contact = "/contact"
+
+# Functions (if using Netlify Functions)
+[functions]
+  directory = "netlify/functions"
+
+# Build plugins
+[[plugins]]
+  package = "@netlify/plugin-sitemap"
+
+# Edge functions (if needed)
+[edge_functions]
+  directory = "netlify/edge-functions"
+
+# Environment variables (set these in Netlify dashboard)
+# VITE_APP_TITLE="Joseph Bidias Portfolio"
+# VITE_API_URL="https://api.example.com"
+# VITE_CONTACT_EMAIL="joseph.bidias@gmail.com"
